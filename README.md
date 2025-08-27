@@ -1,8 +1,8 @@
   
-# 💫 About Me:
-    My name is Bora<br>
-    I’m currently studying Computer Engineering<br>
-    I'm really interested in Backend Web Development and Artifical Intelligence Implementention<br>
+# 💫 About Me
+    My name is Bora
+    I’m currently studying Computer Engineering
+    I'm really interested in Backend Web Development and Artifical Intelligence Implementention
 
 
 ## 🌐 Socials:
