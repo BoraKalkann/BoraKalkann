@@ -34,23 +34,31 @@
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoraKalkann&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Bora's GitHub Stats" style="max-width: 300px; width: 100%;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BoraKalkann&theme=dark&hide_border=false" alt="Bora's GitHub Streak" style="max-width: 300px; width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoraKalkann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Bora's Top Languages" style="max-width: 250px; width: 100%;" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BoraKalkann&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+       alt="Bora's GitHub Stats" 
+       style="width: 70%; max-width: 150px;" />
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BoraKalkann&theme=dark&hide_border=false" 
+       alt="Bora's GitHub Streak" 
+       style="width: 70%; max-width: 150px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoraKalkann&theme=dark&hide_border=false&layout=compact" 
+       alt="Bora's Top Languages" 
+       style="width: 70%; max-width: 150px;" />
 </div>
 
 ---
 
 ## 🔝 Top Contributed Repos
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BoraKalkann&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Bora's Top Repos" style="max-width: 400px; width: 100%;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=BoraKalkann&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Bora's Top Repos" style="max-width: 150px; width: 70%;" />
 </div>
 
 ---
 
 ## 📬 Connect with Me
-- **Email:** [bora_kalkan350@hotmail.com](mailto:bora_kalkan350@hotmail.com)  
+- **Email:** [bora.kalkan@hotmail.com](mailto:bora_kalkan350@hotmail.com)  
 - **LinkedIn:** [linkedin.com/in/bora-kalkan-271a6227b](https://linkedin.com/in/bora-kalkan-271a6227b)  
 - **YouTube:** [youtube.com/@ArtificalTomfoolery](https://youtube.com/@ArtificalTomfoolery)
 
