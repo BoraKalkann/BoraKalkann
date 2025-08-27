@@ -1,5 +1,5 @@
   
-# 💫 About Me
+                       💫 About Me
     My name is Bora
     I’m currently studying Computer Engineering
     I'm really interested in Backend Web Development and Artifical Intelligence Implementention
@@ -15,5 +15,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BoraKalkann&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
