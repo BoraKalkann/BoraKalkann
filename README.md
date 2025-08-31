@@ -47,13 +47,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoraKalkann&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoraKalkann&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BoraKalkann&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
 
 
 
