@@ -1,6 +1,12 @@
-# 👋 Hey, I'm Bora!
+<div align="center">
 
-🚀 **Computer Engineering student and tech enthusiast!** I’m passionate about backend web development and artificial intelligence applications. My goal is to make the world smarter and more connected through code.
+# 👋 Hey there, I'm Bora! 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+
+**🚀 Building the future, one line of code at a time**
+
+*Passionate about backend web development and artificial intelligence applications. My mission is to make the world smarter and more connected through innovative solutions.*
 
 ---
 
@@ -33,29 +39,23 @@
 
 ---
 
-## 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoraKalkann&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
-       alt="Bora's GitHub Stats" 
-       style="width: 70%; max-width: 150px;" />
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BoraKalkann&theme=dark&hide_border=false" 
-       alt="Bora's GitHub Streak" 
-       style="width: 70%; max-width: 150px;" />
+## 📈 GitHub Stats and Analytics
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoraKalkann&theme=dark&hide_border=false&layout=compact" 
-       alt="Bora's Top Languages" 
-       style="width: 70%; max-width: 150px;" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoraKalkann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoraKalkann&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
----
-
-## 🔝 Top Contributed Repos
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BoraKalkann&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Bora's Top Repos" style="max-width: 150px; width: 70%;" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoraKalkann&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BoraKalkann&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
+
+
 
 ## 📬 Connect with Me
 - **Email:** [bora.kalkan@hotmail.com](mailto:bora_kalkan350@hotmail.com)  
