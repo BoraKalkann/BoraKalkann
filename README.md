@@ -50,12 +50,5 @@
 
 
 
-## 📬 Connect with Me
-- **Email:** [bora.kalkan@hotmail.com](mailto:bora_kalkan350@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/bora-kalkan-271a6227b](https://linkedin.com/in/bora-kalkan-271a6227b)  
-- **YouTube:** [youtube.com/@ArtificalTomfoolery](https://youtube.com/@ArtificalTomfoolery)
-
----
-
 > **"Idiot admires complexity, a genius admires simplicity"
 > Terry A. Davis**
