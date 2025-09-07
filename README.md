@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Bora! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer;AI+Enthusiast;" alt="Typing SVG" />
 
 **🚀 Building the future, one line of code at a time**
 
